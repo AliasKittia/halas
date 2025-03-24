@@ -1,0 +1,20 @@
+.kulsoresz-outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.kulsoresz-inner {
+    
+    width: 400px;
+    height: auto;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 30px;
+    border-radius: 15%;
+    border: 1px solid #ccc;
+}
